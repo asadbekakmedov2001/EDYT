@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ILMIY TADQIQOT METODOLOGIYASI </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ismoil Allakov</string>
+    <string name="nav_header_subtitle">Termiz Davlat Universiteti</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Asosiy qisim</string>
+    <string name="menu_gallery">Video darslar</string>
+    <string name="menu_slideshow">Muallif haqida</string>
+    <string name="search_view">Search view</string>
+    <string name="xumoyiddin_turayev">Asadbek Axmedov</string>
+    <string name="xumoyiddinturayev">\@Ismail_Allakov</string>
+    <string name="termiz_davlat_universiteti">Termiz Davlat Universiteti</string>
+    <string name="muallif_fish">Masharipova Gularam Kamilovna </string>
+    <string name="muallif_fish2">Xo’janova Tamara Jo’rayevna </string>
+    <string name="muallif_haqida"> 1967 yil Xorazm viloyatida tug`ilgan. Toshkent to‘qimachilik va yengil sanoat instituti, Falsafa fanlari doktori, professor. </string>
+    <string name="muallif_haqida2"> 1973 yil Surxondaryo viloyatida tug`ilgan. Denov tadbirkorlik va pedagogika instituti, Falsafa fanlari doktori. </string>
+</resources>
